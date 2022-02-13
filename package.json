@@ -1,6 +1,6 @@
 {
   "name": "@forgr/speech-recognition",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "A native plugin for speech recognition",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -57,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/speech-recognition.git"
+    "url": "git+https://github.com/riderx/speech-recognition.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/speech-recognition/issues"
+    "url": "https://github.com/riderx/speech-recognition/issues"
   },
-  "homepage": "https://github.com/capacitor-community/speech-recognition#readme"
+  "homepage": "https://github.com/riderx/speech-recognition#readme"
 }
